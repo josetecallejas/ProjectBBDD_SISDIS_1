@@ -11,10 +11,6 @@
 > **Administrador:** esta entidad se encargará de validar los usuarios, así como, dar de alta y baja los diferentes productos de nuestra tienda.<br/>
 > 
 >> ## Integrantes del equipo de desarrollo:
->> **Roberto Jiménez Pulgar**<br/>
->>   * Email: r.jimenezpu@alumnos.urjc.es<br/>
->>   * Cuenta GitHub: Sryiwen <br/>
->>   
 >> **José María Callejas Sánchez**<br/>
 >>   * Email:	jm.callejas@alumnos.urjc.es<br/>
 >>   * Cuenta GitHub: josetecallejas <br/>
